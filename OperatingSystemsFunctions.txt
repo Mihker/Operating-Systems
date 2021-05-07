@@ -1,1 +1,6 @@
+3 Assorted Functions of operating systems, by Mihkel Gardner
+
+Function 1: providing a user interface
+This is the most visible function of an operating system, as it is the means with which the user interacts with their computer. The most common form is a Graphical User Interface (GUI for short), where the user interacts with their applications and files principally via icons. An alternate form of user interface is a Command Line Interface (think DOS) – a text-based system where the user types commands to access or create particular files, or make changes. CL interfaces are used with many Linux distributions and are useful because they give an experienced user greater control over their OS, applications, file management etc. 
+
 
