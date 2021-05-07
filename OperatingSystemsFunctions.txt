@@ -1,6 +1,11 @@
 3 Assorted Functions of operating systems, by Mihkel Gardner
 
 Function 1: providing a user interface
+
 This is the most visible function of an operating system, as it is the means with which the user interacts with their computer. The most common form is a Graphical User Interface (GUI for short), where the user interacts with their applications and files principally via icons. An alternate form of user interface is a Command Line Interface (think DOS) – a text-based system where the user types commands to access or create particular files, or make changes. CL interfaces are used with many Linux distributions and are useful because they give an experienced user greater control over their OS, applications, file management etc. 
 
+
+Function 2: Managing memory
+
+When a user is running multiple applications at once, memory management becomes extremely important. A useful analogy: memory is like the papers on the top of your desk, while storage is like the filing cabinets within your desk. Thus, running a whole bunch of applications at once is like having a desk that’s piled with papers. So, the way an OS deals with this is by effectively keeping the most recently used “papers” on the top of the pile, least recently on the bottom. If your desk is overflowing such that it’s slowing you down, your OS may take some of those papers and put them back in the filing cabinet…but up front, in a special place we’ll call “virtual memory”. 
 
