@@ -9,3 +9,9 @@ Function 2: Managing memory
 
 When a user is running multiple applications at once, memory management becomes extremely important. A useful analogy: memory is like the papers on the top of your desk, while storage is like the filing cabinets within your desk. Thus, running a whole bunch of applications at once is like having a desk that’s piled with papers. So, the way an OS deals with this is by effectively keeping the most recently used “papers” on the top of the pile, least recently on the bottom. If your desk is overflowing such that it’s slowing you down, your OS may take some of those papers and put them back in the filing cabinet…but up front, in a special place we’ll call “virtual memory”. 
 
+
+Function 3: Updating operating system software
+
+I chose this one because it represents a rather sizeable difference between the two operating-systems I chose to compare: Windows 10 and MacOS. MacOS tends to bundle their smaller updates into a larger update package, release it at once, the user gets a notification, hits one button, and that’s it until the next time (or else the update happens automatically). For Windows 10, updates are comparatively haphazard, because different companies handle different, vital OS components, each with their own update schedule. 
+
+
